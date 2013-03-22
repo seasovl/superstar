@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -161,3 +162,9 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+=======
+/*.classpath
+/*.project
+/target
+/.settings
+>>>>>>> 80d06ea3173fdf3b2190089af17a61af33bba185
