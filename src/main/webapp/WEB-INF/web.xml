@@ -28,7 +28,7 @@
 		</init-param>
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
-			<param-value>com.soshequ.web</param-value>
+			<param-value>com.jcm.web</param-value>
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
